@@ -11,5 +11,5 @@ Aquí va tus variables de entorno
 Aqui estan todos las configuraciones de las diferentes imágenes de docker.
 Podrán encontra elasticsearch, kibana, logstash, mysql, nginx, php-fpm.
 
-#Script.sh 
+# Scriptsh /Config
 Modificar la variable en DOMAIN="local.tu-pagina-web.com" en script.sh
