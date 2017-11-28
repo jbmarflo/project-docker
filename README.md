@@ -10,3 +10,5 @@ Aquí va tus variables de entorno
 #Carpeta /Docker
 Aqui estan todos las configuraciones de las diferentes imágenes de docker.
 Podrán encontra elasticsearch, kibana, logstash, mysql, nginx, php-fpm.
+
+Modificar la variable en DOMAIN="local.tu-pagina-web.com" en script.sh
